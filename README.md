@@ -1,6 +1,16 @@
  <DOCTYPE html>
 <html lang="en">
   <body>
+   
+   {
+   background-image: url();
+   background-repeat: repeat;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-colour: black ;
+   
+   }
+   
     <h>cixne vb</h>
     <p>click the links below</p>
    <a href="https://www.cixne-vb.com">https://cixne-vb.com</a> 
