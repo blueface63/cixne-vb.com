@@ -1,15 +1,6 @@
  <DOCTYPE html>
 <html lang="en">
   <body>
-  <STYLE="clour:black;">
-   {
-   background-image: url();
-   background-repeat: repeat;
-   background-repeat: no-repeat;
-   background-size: cover;
-   background-colour: black </STYLE>
-   
-   }
    
     <h>cixne vb</h>
     <p>click the links below</p>
