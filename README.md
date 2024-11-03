@@ -1,6 +1,6 @@
  <DOCTYPE html>
 <html lang="en">
-  <body style="background-color :black✴️>
+  <body style="background-color :black;">
    
     <h>cixne vb</h>
     <p>click the links below</p>
