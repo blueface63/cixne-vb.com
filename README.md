@@ -1,6 +1,8 @@
  <DOCTYPE html>
 <html lang="en">
-  <body style="background-color:black;">
+  <body style="background-color:black;"
+   background-image : url("../img/background.jpg");
+>
    
     <h>cixne vb</h>
     <p>click the links below</p>
